@@ -1,0 +1,20 @@
+# Dependencias y build
+node_modules
+dist
+dist-ssr
+
+# Variables de entorno (el .env real no se sube; se copia desde .env.example)
+.env
+.env.*
+!.env.example
+
+# Registros
+*.log
+pnpm-debug.log*
+
+# Editor y sistema
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.local
