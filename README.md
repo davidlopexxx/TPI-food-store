@@ -7,7 +7,7 @@ Food Store es una tienda de comida con catálogo de productos, carrito, pedidos 
 administración. Está formada por una API REST (FastAPI + PostgreSQL) y una aplicación web (React + TypeScript).
 
 - **Repositorio:** <https://github.com/davidlopexxx/TPI-food-store>
-- **Video de presentación:** <COMPLETAR: link público del video>
+- **Video de presentación:** <https://drive.google.com/file/d/163j0FzDqAaA-QmmrGtx18CydAbUQh3Ya/view?usp=sharing>
 
 ---
 
